@@ -1,0 +1,12 @@
+root = true
+
+# Charset
+charset = utf-8
+
+# Indentation and spacing
+indent_size = 4
+indent_style = space
+tab_width = 4
+max_line_length = 120
+continuation_indent_size = 8
+trim_trailing_whitespace = true
