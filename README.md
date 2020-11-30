@@ -2,7 +2,7 @@
 CLI for common editorconfig tasks
 
 ## Tasks
-####Check
+#### Check
 `
 ec check <editorconfig_file>
 `
